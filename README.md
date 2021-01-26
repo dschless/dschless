@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Heyo, I'm Dave! 👋
+
+- 🔭 I’m currently working as a Technical Lead on the [Shop](https://shop.battle.net/) team at [Blizzard Entertainment](https://github.com/blizzard)
+- 🌱 I’m currently learning different SPA libraries and frameworks and ways to be better at scale
+- 💬 Ask me about Angular, Java, Spring Boot, e-commerce, improving operational excellence, the web front-end at large
+- 📫 How to reach me: this username at a popular web-based email provider’s domain
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: “Dentaku” is Japanese for pocket calculator. I nicked it from [a Kraftwerk song.](https://youtu.be/ZbmFeXTN7GA)
 
 <!--
 **dentaku/dentaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
