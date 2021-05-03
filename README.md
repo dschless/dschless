@@ -1,9 +1,10 @@
 ### 👋 Heyo, I'm Dave! 👋
 
-- 🔭 I’m currently [working](https://www.linkedin.com/in/dschless/) as a Technical Lead on the [Shop](https://shop.battle.net/) team at [Blizzard Entertainment](https://github.com/blizzard)
-- 🌱 I’m always looking to learn new things and have recently been focused on scaling and having fun with web components
-- 💬 Ask me about the web-front end at large, [TypeScript](https://github.com/microsoft/TypeScript/), [Angular](https://github.com/angular/angular), Java and [Spring Boot](https://github.com/spring-projects/spring-boot), e-commerce, or improving operational excellence
-- 📫 How to reach me: this username at a certain very popular web-based email provider’s domain
+- 🔭 I'm currently the Technical Lead on the [Shop](https://shop.battle.net/) team at [Blizzard Entertainment](https://github.com/blizzard)
+- ⚒ I've been [working](https://www.linkedin.com/in/dschless/) in software engineering for quite a while now
+- 🌱 I'm always looking to learn and have recently been focused on scale and team growth
+- 💬 Ask me about the web front-end at large, [TypeScript](https://github.com/microsoft/TypeScript/), [Angular](https://github.com/angular/angular), Java and [Spring Boot](https://github.com/spring-projects/spring-boot), e-commerce, and improving operational excellence
+- 📫 Contact me at this username at a certain very popular web-based email provider’s domain
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: “Dentaku” is Japanese for pocket calculator. I nicked it from [a Kraftwerk song.](https://youtu.be/ZbmFeXTN7GA)</a>
 
