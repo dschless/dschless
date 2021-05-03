@@ -1,6 +1,6 @@
 ### 👋 Heyo, I'm Dave! 👋
 
-- 🔭 I’m currently working as a Technical Lead on the [Shop](https://shop.battle.net/) team at [Blizzard Entertainment](https://github.com/blizzard)
+- 🔭 I’m currently [working](https://www.linkedin.com/in/dschless/) as a Technical Lead on the [Shop](https://shop.battle.net/) team at [Blizzard Entertainment](https://github.com/blizzard)
 - 🌱 I’m always looking to learn new things and have recently been focused on scaling and having fun with web components
 - 💬 Ask me about the web-front end at large, [TypeScript](https://github.com/microsoft/TypeScript/), [Angular](https://github.com/angular/angular), Java and [Spring Boot](https://github.com/spring-projects/spring-boot), e-commerce, or improving operational excellence
 - 📫 How to reach me: this username at a certain very popular web-based email provider’s domain
