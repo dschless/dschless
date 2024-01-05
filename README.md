@@ -1,6 +1,6 @@
 ### 👋 Heyo, I'm Dave! 👋
 
-- 🔭 I'm currently a Technical Lead at <a href="https://github.com/blizzard" target="_blank">Blizzard Entertainment.</a>
+- 🔭 I'm currently a Technical Lead at [Blizzard Entertainment.](https://github.com/blizzard)
 - ⚒ I've been <a href="https://www.linkedin.com/in/dschless/" target="_blank">working</a> in software engineering for quite a while now.
 - 🌱 I'm always looking to learn and have recently been focused on scale and team growth.
 - 💬 Ask me about [TypeScript](https://github.com/microsoft/TypeScript/), [Angular](https://github.com/angular/angular), Java and [Spring Boot](https://github.com/spring-projects/spring-boot), e-commerce, and improving operational excellence.
