@@ -4,9 +4,8 @@
 - ⚒ I've been <a href="https://www.linkedin.com/in/dschless/" target="_blank">working</a> in software engineering for quite a while now.
 - 🌱 I'm always looking to learn and have recently been focused on scale and team growth.
 - 💬 Ask me about [TypeScript](https://github.com/microsoft/TypeScript/), [Angular](https://github.com/angular/angular), Java and [Spring Boot](https://github.com/spring-projects/spring-boot), e-commerce, and improving operational excellence.
-- 📫 Contact me at this username at a certain very popular web-based email provider’s domain.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: “Dentaku” is Japanese for pocket calculator. I nicked it from <a href="https://youtu.be/ZbmFeXTN7GA" target="_blank">a Kraftwerk song.</a>
+- 📫 Contact me at `dentaku` at a certain very popular web-based email provider’s domain.
+	- ⚡ Fun fact: “Dentaku” is Japanese for pocket calculator. I nicked it from <a href="https://youtu.be/ZbmFeXTN7GA" target="_blank">a Kraftwerk song.</a>
 
 <!--
 **dentaku/dentaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
